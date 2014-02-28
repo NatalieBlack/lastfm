@@ -5,3 +5,4 @@
 charts/*.json
 trackcharts/*.json
 config.py*
+chartslist.json
