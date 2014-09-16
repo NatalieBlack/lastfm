@@ -5,4 +5,5 @@
 charts/*.json
 trackcharts/*.json
 config.py*
-chartslist.json
+*.json
+.ipynb_checkpoints
